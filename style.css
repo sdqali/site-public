@@ -580,6 +580,19 @@ details {
   padding: 0.5em 0.5em 0;
 }
 
+details > summary {
+  list-style: none;
+}
+
+details > summary::before {
+  content: '+'; /* Or an arrow icon */
+  margin-right: 5px;
+}
+
+details[open] > summary::before {
+  content: '-'; /* Or a rotated arrow */
+}
+
 summary {
   font-weight: bold;
   margin: -0.5em -0.5em 0;
