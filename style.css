@@ -628,3 +628,60 @@ details[open] summary {
   font-weight: 600;
 }
 
+:not(pre) > code {
+    /* Inline code. Includes highlighted and unhighlighted versions */
+    font-family: monospace;
+}
+
+:not(div.highlight) pre:not(:has(code > span)):has(code), div.highlight {
+    /* The top level for the "block" style code blocks */
+    /* 1st part: Unhihlghighted / unrecognized code blocks. */
+        /* Filters out inline code, */
+        /* and highlighted code (always have spans), */
+        /* and pre blocks within highlighted code. */
+    /* 2nd part, all highlighted code blocks (except for the inline version). */
+
+    /* Div and pre have different base styles. sync them up here. */
+    margin: 1em 0;
+    --parent-padding-size: 0.25rem;
+    --child-padding-size: 0.25rem;
+    padding: var(--parent-padding-size);
+
+    & > * {
+        /* All blocks only have 1 direct child, but it could be a `<code>`, `<pre>`, or a `<div>` */
+        display: block;
+        overflow-x: auto;
+        font-family: monospace;
+        padding: var(--child-padding-size);
+        margin: 0;
+
+        table pre { margin: 0; }
+    }
+
+    /* Bonus effect to display the name of the language. ↓ */
+    &:has(code[data-lang]) {
+        position: relative;
+        margin-top: calc(2ch - var(--parent-padding-size)/2);
+        /*          ↑
+            Calculates headroom needed for language label.
+            So long as both elements use the same font size, we can estimate
+            the height of the language label using `ch` or `em`.
+        */
+
+        code[data-lang]::before {
+            position: absolute;
+            font-family: monospace;
+            content: attr(data-lang);
+            display: inline-block;
+            text-align: right;
+            font-size: 1em;
+            height: 1em;
+            top: calc(-1em + 1px);  /* 1em alone is sometimes off by a hair. */
+            padding: 0 0.25rem;
+            right: var(--parent-padding-size);
+
+            /* If you add a border to your the code blocks, remember to */
+            /* set a background color here to interrupt the border. */
+        }
+    }
+}

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2008-2025 Sadique Ali.</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 21:06:08 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 00:57:03 -0800</lastBuildDate>
     <atom:link href="https://sadique.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making sense of Linux Capabilities</title>
+      <link>https://sadique.io/blog/2025/12/09/making-sense-of-linux-capabilities/</link>
+      <pubDate>Tue, 09 Dec 2025 00:57:03 -0800</pubDate>
+      <guid>https://sadique.io/blog/2025/12/09/making-sense-of-linux-capabilities/</guid>
+      <description>&lt;p&gt;In this blog post, we will explore Linux Capabilities, which is a way to ensure that Processes and executables have just enough rights to perform the actions they are deemed safe to perform, without giving them &lt;em&gt;carte blanche&lt;/em&gt; to anything and everything by running as the &lt;code&gt;root&lt;/code&gt; user.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>On Dave Egger&#39;s _The Monk of Mokha_</title>
       <link>https://sadique.io/blog/2025/12/08/on-dave-eggers-_the-monk-of-mokha_/</link>
