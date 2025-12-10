@@ -2,1166 +2,1180 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on {code that works}</title>
-    <link>https://sadique.io/tags/</link>
+    <link>//workstation.local:1313/tags/</link>
     <description>Recent content in Tags on {code that works}</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2008-2025 Sadique Ali.</copyright>
-    <lastBuildDate>Sun, 30 Nov 2025 15:08:03 -0800</lastBuildDate>
-    <atom:link href="https://sadique.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2025 22:00:23 -0800</lastBuildDate>
+    <atom:link href="//workstation.local:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Macbook</title>
-      <link>https://sadique.io/tags/macbook/</link>
-      <pubDate>Sun, 30 Nov 2025 15:08:03 -0800</pubDate>
-      <guid>https://sadique.io/tags/macbook/</guid>
+      <title>Gnome</title>
+      <link>//workstation.local:1313/tags/gnome/</link>
+      <pubDate>Wed, 03 Dec 2025 22:00:23 -0800</pubDate>
+      <guid>//workstation.local:1313/tags/gnome/</guid>
       <description></description>
     </item>
     <item>
-      <title>Wezterm</title>
-      <link>https://sadique.io/tags/wezterm/</link>
-      <pubDate>Sun, 30 Nov 2025 15:08:03 -0800</pubDate>
-      <guid>https://sadique.io/tags/wezterm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xremap</title>
-      <link>https://sadique.io/tags/xremap/</link>
-      <pubDate>Sun, 30 Nov 2025 15:08:03 -0800</pubDate>
-      <guid>https://sadique.io/tags/xremap/</guid>
+      <title>Nautilus</title>
+      <link>//workstation.local:1313/tags/nautilus/</link>
+      <pubDate>Wed, 03 Dec 2025 22:00:23 -0800</pubDate>
+      <guid>//workstation.local:1313/tags/nautilus/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://sadique.io/tags/linux/</link>
-      <pubDate>Thu, 27 Nov 2025 08:05:17 -0800</pubDate>
-      <guid>https://sadique.io/tags/linux/</guid>
+      <link>//workstation.local:1313/tags/linux/</link>
+      <pubDate>Tue, 02 Dec 2025 21:24:46 -0800</pubDate>
+      <guid>//workstation.local:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macbook</title>
+      <link>//workstation.local:1313/tags/macbook/</link>
+      <pubDate>Sun, 30 Nov 2025 15:08:03 -0800</pubDate>
+      <guid>//workstation.local:1313/tags/macbook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wezterm</title>
+      <link>//workstation.local:1313/tags/wezterm/</link>
+      <pubDate>Sun, 30 Nov 2025 15:08:03 -0800</pubDate>
+      <guid>//workstation.local:1313/tags/wezterm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xremap</title>
+      <link>//workstation.local:1313/tags/xremap/</link>
+      <pubDate>Sun, 30 Nov 2025 15:08:03 -0800</pubDate>
+      <guid>//workstation.local:1313/tags/xremap/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitbucket</title>
-      <link>https://sadique.io/tags/bitbucket/</link>
+      <link>//workstation.local:1313/tags/bitbucket/</link>
       <pubDate>Mon, 24 Nov 2025 11:49:27 -0800</pubDate>
-      <guid>https://sadique.io/tags/bitbucket/</guid>
+      <guid>//workstation.local:1313/tags/bitbucket/</guid>
       <description></description>
     </item>
     <item>
       <title>Codeberg</title>
-      <link>https://sadique.io/tags/codeberg/</link>
+      <link>//workstation.local:1313/tags/codeberg/</link>
       <pubDate>Mon, 24 Nov 2025 11:49:27 -0800</pubDate>
-      <guid>https://sadique.io/tags/codeberg/</guid>
+      <guid>//workstation.local:1313/tags/codeberg/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>https://sadique.io/tags/github/</link>
+      <link>//workstation.local:1313/tags/github/</link>
       <pubDate>Mon, 24 Nov 2025 11:49:27 -0800</pubDate>
-      <guid>https://sadique.io/tags/github/</guid>
+      <guid>//workstation.local:1313/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://sadique.io/tags/hugo/</link>
+      <link>//workstation.local:1313/tags/hugo/</link>
       <pubDate>Mon, 24 Nov 2025 11:49:27 -0800</pubDate>
-      <guid>https://sadique.io/tags/hugo/</guid>
+      <guid>//workstation.local:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Hledger</title>
-      <link>https://sadique.io/tags/hledger/</link>
+      <link>//workstation.local:1313/tags/hledger/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 -0800</pubDate>
-      <guid>https://sadique.io/tags/hledger/</guid>
+      <guid>//workstation.local:1313/tags/hledger/</guid>
       <description></description>
     </item>
     <item>
       <title>Jwt</title>
-      <link>https://sadique.io/tags/jwt/</link>
+      <link>//workstation.local:1313/tags/jwt/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 -0800</pubDate>
-      <guid>https://sadique.io/tags/jwt/</guid>
+      <guid>//workstation.local:1313/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
       <title>Nginx</title>
-      <link>https://sadique.io/tags/nginx/</link>
+      <link>//workstation.local:1313/tags/nginx/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 -0800</pubDate>
-      <guid>https://sadique.io/tags/nginx/</guid>
+      <guid>//workstation.local:1313/tags/nginx/</guid>
       <description></description>
     </item>
     <item>
       <title>Plantuml</title>
-      <link>https://sadique.io/tags/plantuml/</link>
+      <link>//workstation.local:1313/tags/plantuml/</link>
       <pubDate>Thu, 20 Nov 2025 19:45:44 -0800</pubDate>
-      <guid>https://sadique.io/tags/plantuml/</guid>
+      <guid>//workstation.local:1313/tags/plantuml/</guid>
       <description></description>
     </item>
     <item>
       <title>Datadog</title>
-      <link>https://sadique.io/tags/datadog/</link>
+      <link>//workstation.local:1313/tags/datadog/</link>
       <pubDate>Fri, 02 Aug 2019 18:19:32 -0700</pubDate>
-      <guid>https://sadique.io/tags/datadog/</guid>
+      <guid>//workstation.local:1313/tags/datadog/</guid>
       <description></description>
     </item>
     <item>
       <title>Dropwizard</title>
-      <link>https://sadique.io/tags/dropwizard/</link>
+      <link>//workstation.local:1313/tags/dropwizard/</link>
       <pubDate>Fri, 02 Aug 2019 18:19:32 -0700</pubDate>
-      <guid>https://sadique.io/tags/dropwizard/</guid>
+      <guid>//workstation.local:1313/tags/dropwizard/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://sadique.io/tags/java/</link>
+      <link>//workstation.local:1313/tags/java/</link>
       <pubDate>Fri, 02 Aug 2019 18:19:32 -0700</pubDate>
-      <guid>https://sadique.io/tags/java/</guid>
+      <guid>//workstation.local:1313/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Postgres</title>
-      <link>https://sadique.io/tags/postgres/</link>
+      <link>//workstation.local:1313/tags/postgres/</link>
       <pubDate>Thu, 09 May 2019 17:10:23 -0700</pubDate>
-      <guid>https://sadique.io/tags/postgres/</guid>
+      <guid>//workstation.local:1313/tags/postgres/</guid>
       <description></description>
     </item>
     <item>
       <title>Sql</title>
-      <link>https://sadique.io/tags/sql/</link>
+      <link>//workstation.local:1313/tags/sql/</link>
       <pubDate>Thu, 09 May 2019 17:10:23 -0700</pubDate>
-      <guid>https://sadique.io/tags/sql/</guid>
+      <guid>//workstation.local:1313/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Postgresql</title>
-      <link>https://sadique.io/tags/postgresql/</link>
+      <link>//workstation.local:1313/tags/postgresql/</link>
       <pubDate>Tue, 07 May 2019 18:04:42 -0700</pubDate>
-      <guid>https://sadique.io/tags/postgresql/</guid>
+      <guid>//workstation.local:1313/tags/postgresql/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://sadique.io/tags/development/</link>
+      <link>//workstation.local:1313/tags/development/</link>
       <pubDate>Sat, 23 Mar 2019 19:46:08 +0000</pubDate>
-      <guid>https://sadique.io/tags/development/</guid>
+      <guid>//workstation.local:1313/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>SAS</title>
-      <link>https://sadique.io/tags/sas/</link>
+      <link>//workstation.local:1313/tags/sas/</link>
       <pubDate>Sat, 23 Mar 2019 19:46:08 +0000</pubDate>
-      <guid>https://sadique.io/tags/sas/</guid>
+      <guid>//workstation.local:1313/tags/sas/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphql</title>
-      <link>https://sadique.io/tags/graphql/</link>
+      <link>//workstation.local:1313/tags/graphql/</link>
       <pubDate>Sat, 10 Nov 2018 02:12:47 +0000</pubDate>
-      <guid>https://sadique.io/tags/graphql/</guid>
+      <guid>//workstation.local:1313/tags/graphql/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphql-Summit</title>
-      <link>https://sadique.io/tags/graphql-summit/</link>
+      <link>//workstation.local:1313/tags/graphql-summit/</link>
       <pubDate>Sat, 10 Nov 2018 02:12:47 +0000</pubDate>
-      <guid>https://sadique.io/tags/graphql-summit/</guid>
+      <guid>//workstation.local:1313/tags/graphql-summit/</guid>
       <description></description>
     </item>
     <item>
       <title>Time</title>
-      <link>https://sadique.io/tags/time/</link>
+      <link>//workstation.local:1313/tags/time/</link>
       <pubDate>Sat, 09 Jun 2018 18:55:23 +0000</pubDate>
-      <guid>https://sadique.io/tags/time/</guid>
+      <guid>//workstation.local:1313/tags/time/</guid>
       <description></description>
     </item>
     <item>
       <title>Freebuilder</title>
-      <link>https://sadique.io/tags/freebuilder/</link>
+      <link>//workstation.local:1313/tags/freebuilder/</link>
       <pubDate>Sat, 05 May 2018 05:27:35 +0000</pubDate>
-      <guid>https://sadique.io/tags/freebuilder/</guid>
+      <guid>//workstation.local:1313/tags/freebuilder/</guid>
       <description></description>
     </item>
     <item>
       <title>Intellij</title>
-      <link>https://sadique.io/tags/intellij/</link>
+      <link>//workstation.local:1313/tags/intellij/</link>
       <pubDate>Sat, 05 May 2018 05:27:35 +0000</pubDate>
-      <guid>https://sadique.io/tags/intellij/</guid>
+      <guid>//workstation.local:1313/tags/intellij/</guid>
       <description></description>
     </item>
     <item>
       <title>Grpc</title>
-      <link>https://sadique.io/tags/grpc/</link>
+      <link>//workstation.local:1313/tags/grpc/</link>
       <pubDate>Fri, 06 Apr 2018 05:45:08 +0000</pubDate>
-      <guid>https://sadique.io/tags/grpc/</guid>
+      <guid>//workstation.local:1313/tags/grpc/</guid>
       <description></description>
     </item>
     <item>
       <title>Grpcurl</title>
-      <link>https://sadique.io/tags/grpcurl/</link>
+      <link>//workstation.local:1313/tags/grpcurl/</link>
       <pubDate>Fri, 06 Apr 2018 05:45:08 +0000</pubDate>
-      <guid>https://sadique.io/tags/grpcurl/</guid>
+      <guid>//workstation.local:1313/tags/grpcurl/</guid>
       <description></description>
     </item>
     <item>
       <title>Polyglot</title>
-      <link>https://sadique.io/tags/polyglot/</link>
+      <link>//workstation.local:1313/tags/polyglot/</link>
       <pubDate>Fri, 06 Apr 2018 05:45:08 +0000</pubDate>
-      <guid>https://sadique.io/tags/polyglot/</guid>
+      <guid>//workstation.local:1313/tags/polyglot/</guid>
       <description></description>
     </item>
     <item>
       <title>Jackson</title>
-      <link>https://sadique.io/tags/jackson/</link>
+      <link>//workstation.local:1313/tags/jackson/</link>
       <pubDate>Fri, 23 Mar 2018 05:21:42 +0000</pubDate>
-      <guid>https://sadique.io/tags/jackson/</guid>
+      <guid>//workstation.local:1313/tags/jackson/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://sadique.io/tags/docker/</link>
+      <link>//workstation.local:1313/tags/docker/</link>
       <pubDate>Thu, 22 Mar 2018 02:44:03 +0000</pubDate>
-      <guid>https://sadique.io/tags/docker/</guid>
+      <guid>//workstation.local:1313/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Ruby</title>
-      <link>https://sadique.io/tags/ruby/</link>
+      <link>//workstation.local:1313/tags/ruby/</link>
       <pubDate>Thu, 22 Mar 2018 02:44:03 +0000</pubDate>
-      <guid>https://sadique.io/tags/ruby/</guid>
+      <guid>//workstation.local:1313/tags/ruby/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://sadique.io/tags/python/</link>
+      <link>//workstation.local:1313/tags/python/</link>
       <pubDate>Tue, 26 Sep 2017 04:22:39 +0000</pubDate>
-      <guid>https://sadique.io/tags/python/</guid>
+      <guid>//workstation.local:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Maven</title>
-      <link>https://sadique.io/tags/maven/</link>
+      <link>//workstation.local:1313/tags/maven/</link>
       <pubDate>Fri, 18 Aug 2017 04:00:43 +0000</pubDate>
-      <guid>https://sadique.io/tags/maven/</guid>
+      <guid>//workstation.local:1313/tags/maven/</guid>
       <description></description>
     </item>
     <item>
       <title>Nexus</title>
-      <link>https://sadique.io/tags/nexus/</link>
+      <link>//workstation.local:1313/tags/nexus/</link>
       <pubDate>Fri, 18 Aug 2017 04:00:43 +0000</pubDate>
-      <guid>https://sadique.io/tags/nexus/</guid>
+      <guid>//workstation.local:1313/tags/nexus/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>https://sadique.io/tags/code/</link>
+      <link>//workstation.local:1313/tags/code/</link>
       <pubDate>Wed, 30 Nov 2016 05:50:42 +0000</pubDate>
-      <guid>https://sadique.io/tags/code/</guid>
+      <guid>//workstation.local:1313/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Feature-Toggles</title>
-      <link>https://sadique.io/tags/feature-toggles/</link>
+      <link>//workstation.local:1313/tags/feature-toggles/</link>
       <pubDate>Wed, 30 Nov 2016 05:50:42 +0000</pubDate>
-      <guid>https://sadique.io/tags/feature-toggles/</guid>
+      <guid>//workstation.local:1313/tags/feature-toggles/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://sadique.io/tags/spring/</link>
+      <link>//workstation.local:1313/tags/spring/</link>
       <pubDate>Wed, 30 Nov 2016 05:50:42 +0000</pubDate>
-      <guid>https://sadique.io/tags/spring/</guid>
+      <guid>//workstation.local:1313/tags/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>Cluster</title>
-      <link>https://sadique.io/tags/cluster/</link>
+      <link>//workstation.local:1313/tags/cluster/</link>
       <pubDate>Fri, 11 Nov 2016 21:07:32 +0000</pubDate>
-      <guid>https://sadique.io/tags/cluster/</guid>
+      <guid>//workstation.local:1313/tags/cluster/</guid>
       <description></description>
     </item>
     <item>
       <title>Configuration</title>
-      <link>https://sadique.io/tags/configuration/</link>
+      <link>//workstation.local:1313/tags/configuration/</link>
       <pubDate>Fri, 11 Nov 2016 21:07:32 +0000</pubDate>
-      <guid>https://sadique.io/tags/configuration/</guid>
+      <guid>//workstation.local:1313/tags/configuration/</guid>
       <description></description>
     </item>
     <item>
       <title>Coreos</title>
-      <link>https://sadique.io/tags/coreos/</link>
+      <link>//workstation.local:1313/tags/coreos/</link>
       <pubDate>Fri, 11 Nov 2016 21:07:32 +0000</pubDate>
-      <guid>https://sadique.io/tags/coreos/</guid>
+      <guid>//workstation.local:1313/tags/coreos/</guid>
       <description></description>
     </item>
     <item>
       <title>Etcd</title>
-      <link>https://sadique.io/tags/etcd/</link>
+      <link>//workstation.local:1313/tags/etcd/</link>
       <pubDate>Fri, 11 Nov 2016 21:07:32 +0000</pubDate>
-      <guid>https://sadique.io/tags/etcd/</guid>
+      <guid>//workstation.local:1313/tags/etcd/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxy</title>
-      <link>https://sadique.io/tags/proxy/</link>
+      <link>//workstation.local:1313/tags/proxy/</link>
       <pubDate>Fri, 11 Nov 2016 21:07:32 +0000</pubDate>
-      <guid>https://sadique.io/tags/proxy/</guid>
+      <guid>//workstation.local:1313/tags/proxy/</guid>
       <description></description>
     </item>
     <item>
       <title>Secure</title>
-      <link>https://sadique.io/tags/secure/</link>
+      <link>//workstation.local:1313/tags/secure/</link>
       <pubDate>Fri, 11 Nov 2016 21:07:32 +0000</pubDate>
-      <guid>https://sadique.io/tags/secure/</guid>
+      <guid>//workstation.local:1313/tags/secure/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>https://sadique.io/tags/kubernetes/</link>
+      <link>//workstation.local:1313/tags/kubernetes/</link>
       <pubDate>Sat, 05 Nov 2016 05:34:53 +0000</pubDate>
-      <guid>https://sadique.io/tags/kubernetes/</guid>
+      <guid>//workstation.local:1313/tags/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>https://sadique.io/tags/redis/</link>
+      <link>//workstation.local:1313/tags/redis/</link>
       <pubDate>Wed, 02 Nov 2016 20:10:33 +0000</pubDate>
-      <guid>https://sadique.io/tags/redis/</guid>
+      <guid>//workstation.local:1313/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Security</title>
-      <link>https://sadique.io/tags/spring-security/</link>
+      <link>//workstation.local:1313/tags/spring-security/</link>
       <pubDate>Thu, 14 Jul 2016 06:05:53 +0000</pubDate>
-      <guid>https://sadique.io/tags/spring-security/</guid>
+      <guid>//workstation.local:1313/tags/spring-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Authentication</title>
-      <link>https://sadique.io/tags/authentication/</link>
+      <link>//workstation.local:1313/tags/authentication/</link>
       <pubDate>Sun, 03 Jul 2016 01:42:04 +0000</pubDate>
-      <guid>https://sadique.io/tags/authentication/</guid>
+      <guid>//workstation.local:1313/tags/authentication/</guid>
       <description></description>
     </item>
     <item>
       <title>Logstash</title>
-      <link>https://sadique.io/tags/logstash/</link>
+      <link>//workstation.local:1313/tags/logstash/</link>
       <pubDate>Thu, 30 Jun 2016 23:43:07 +0000</pubDate>
-      <guid>https://sadique.io/tags/logstash/</guid>
+      <guid>//workstation.local:1313/tags/logstash/</guid>
       <description></description>
     </item>
     <item>
       <title>Football</title>
-      <link>https://sadique.io/tags/football/</link>
+      <link>//workstation.local:1313/tags/football/</link>
       <pubDate>Sun, 05 Jun 2016 21:08:27 +0000</pubDate>
-      <guid>https://sadique.io/tags/football/</guid>
+      <guid>//workstation.local:1313/tags/football/</guid>
       <description></description>
     </item>
     <item>
       <title>Inverness</title>
-      <link>https://sadique.io/tags/inverness/</link>
+      <link>//workstation.local:1313/tags/inverness/</link>
       <pubDate>Sun, 05 Jun 2016 21:08:27 +0000</pubDate>
-      <guid>https://sadique.io/tags/inverness/</guid>
+      <guid>//workstation.local:1313/tags/inverness/</guid>
       <description></description>
     </item>
     <item>
       <title>Scotland</title>
-      <link>https://sadique.io/tags/scotland/</link>
+      <link>//workstation.local:1313/tags/scotland/</link>
       <pubDate>Sun, 05 Jun 2016 21:08:27 +0000</pubDate>
-      <guid>https://sadique.io/tags/scotland/</guid>
+      <guid>//workstation.local:1313/tags/scotland/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>https://sadique.io/tags/travel/</link>
+      <link>//workstation.local:1313/tags/travel/</link>
       <pubDate>Sun, 05 Jun 2016 21:08:27 +0000</pubDate>
-      <guid>https://sadique.io/tags/travel/</guid>
+      <guid>//workstation.local:1313/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Axon</title>
-      <link>https://sadique.io/tags/axon/</link>
+      <link>//workstation.local:1313/tags/axon/</link>
       <pubDate>Sun, 24 Apr 2016 23:35:43 +0000</pubDate>
-      <guid>https://sadique.io/tags/axon/</guid>
+      <guid>//workstation.local:1313/tags/axon/</guid>
       <description></description>
     </item>
     <item>
       <title>Camel</title>
-      <link>https://sadique.io/tags/camel/</link>
+      <link>//workstation.local:1313/tags/camel/</link>
       <pubDate>Wed, 16 Dec 2015 06:07:01 +0000</pubDate>
-      <guid>https://sadique.io/tags/camel/</guid>
+      <guid>//workstation.local:1313/tags/camel/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://sadique.io/tags/golang/</link>
+      <link>//workstation.local:1313/tags/golang/</link>
       <pubDate>Tue, 15 Dec 2015 02:47:06 +0000</pubDate>
-      <guid>https://sadique.io/tags/golang/</guid>
+      <guid>//workstation.local:1313/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Jsr-303</title>
-      <link>https://sadique.io/tags/jsr-303/</link>
+      <link>//workstation.local:1313/tags/jsr-303/</link>
       <pubDate>Sat, 05 Dec 2015 06:50:24 +0000</pubDate>
-      <guid>https://sadique.io/tags/jsr-303/</guid>
+      <guid>//workstation.local:1313/tags/jsr-303/</guid>
       <description></description>
     </item>
     <item>
       <title>Request-Parameters</title>
-      <link>https://sadique.io/tags/request-parameters/</link>
+      <link>//workstation.local:1313/tags/request-parameters/</link>
       <pubDate>Sat, 05 Dec 2015 06:50:24 +0000</pubDate>
-      <guid>https://sadique.io/tags/request-parameters/</guid>
+      <guid>//workstation.local:1313/tags/request-parameters/</guid>
       <description></description>
     </item>
     <item>
       <title>Validation</title>
-      <link>https://sadique.io/tags/validation/</link>
+      <link>//workstation.local:1313/tags/validation/</link>
       <pubDate>Sat, 05 Dec 2015 06:50:24 +0000</pubDate>
-      <guid>https://sadique.io/tags/validation/</guid>
+      <guid>//workstation.local:1313/tags/validation/</guid>
       <description></description>
     </item>
     <item>
       <title>Mockmvc</title>
-      <link>https://sadique.io/tags/mockmvc/</link>
+      <link>//workstation.local:1313/tags/mockmvc/</link>
       <pubDate>Tue, 24 Nov 2015 10:45:06 +0000</pubDate>
-      <guid>https://sadique.io/tags/mockmvc/</guid>
+      <guid>//workstation.local:1313/tags/mockmvc/</guid>
       <description></description>
     </item>
     <item>
       <title>Tomcat</title>
-      <link>https://sadique.io/tags/tomcat/</link>
+      <link>//workstation.local:1313/tags/tomcat/</link>
       <pubDate>Tue, 09 Jun 2015 05:11:05 +0000</pubDate>
-      <guid>https://sadique.io/tags/tomcat/</guid>
+      <guid>//workstation.local:1313/tags/tomcat/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloudfoundry</title>
-      <link>https://sadique.io/tags/cloudfoundry/</link>
+      <link>//workstation.local:1313/tags/cloudfoundry/</link>
       <pubDate>Fri, 22 May 2015 05:58:41 +0000</pubDate>
-      <guid>https://sadique.io/tags/cloudfoundry/</guid>
+      <guid>//workstation.local:1313/tags/cloudfoundry/</guid>
       <description></description>
     </item>
     <item>
       <title>Devops</title>
-      <link>https://sadique.io/tags/devops/</link>
+      <link>//workstation.local:1313/tags/devops/</link>
       <pubDate>Fri, 22 May 2015 05:58:41 +0000</pubDate>
-      <guid>https://sadique.io/tags/devops/</guid>
+      <guid>//workstation.local:1313/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Json</title>
-      <link>https://sadique.io/tags/json/</link>
+      <link>//workstation.local:1313/tags/json/</link>
       <pubDate>Fri, 22 May 2015 05:58:41 +0000</pubDate>
-      <guid>https://sadique.io/tags/json/</guid>
+      <guid>//workstation.local:1313/tags/json/</guid>
       <description></description>
     </item>
     <item>
       <title>Paas</title>
-      <link>https://sadique.io/tags/paas/</link>
+      <link>//workstation.local:1313/tags/paas/</link>
       <pubDate>Fri, 22 May 2015 05:58:41 +0000</pubDate>
-      <guid>https://sadique.io/tags/paas/</guid>
+      <guid>//workstation.local:1313/tags/paas/</guid>
       <description></description>
     </item>
     <item>
       <title>Geojson</title>
-      <link>https://sadique.io/tags/geojson/</link>
+      <link>//workstation.local:1313/tags/geojson/</link>
       <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/geojson/</guid>
+      <guid>//workstation.local:1313/tags/geojson/</guid>
       <description></description>
     </item>
     <item>
       <title>Gis</title>
-      <link>https://sadique.io/tags/gis/</link>
+      <link>//workstation.local:1313/tags/gis/</link>
       <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/gis/</guid>
+      <guid>//workstation.local:1313/tags/gis/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>https://sadique.io/tags/javascript/</link>
+      <link>//workstation.local:1313/tags/javascript/</link>
       <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/javascript/</guid>
+      <guid>//workstation.local:1313/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Maps</title>
-      <link>https://sadique.io/tags/maps/</link>
+      <link>//workstation.local:1313/tags/maps/</link>
       <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/maps/</guid>
+      <guid>//workstation.local:1313/tags/maps/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>https://sadique.io/tags/tools/</link>
+      <link>//workstation.local:1313/tags/tools/</link>
       <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/tools/</guid>
+      <guid>//workstation.local:1313/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://sadique.io/tags/data/</link>
+      <link>//workstation.local:1313/tags/data/</link>
       <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/data/</guid>
+      <guid>//workstation.local:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongo</title>
-      <link>https://sadique.io/tags/mongo/</link>
+      <link>//workstation.local:1313/tags/mongo/</link>
       <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/mongo/</guid>
+      <guid>//workstation.local:1313/tags/mongo/</guid>
       <description></description>
     </item>
     <item>
       <title>Yelp</title>
-      <link>https://sadique.io/tags/yelp/</link>
+      <link>//workstation.local:1313/tags/yelp/</link>
       <pubDate>Sat, 02 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/yelp/</guid>
+      <guid>//workstation.local:1313/tags/yelp/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithms</title>
-      <link>https://sadique.io/tags/algorithms/</link>
+      <link>//workstation.local:1313/tags/algorithms/</link>
       <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/algorithms/</guid>
+      <guid>//workstation.local:1313/tags/algorithms/</guid>
       <description></description>
     </item>
     <item>
       <title>Clojure</title>
-      <link>https://sadique.io/tags/clojure/</link>
+      <link>//workstation.local:1313/tags/clojure/</link>
       <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/clojure/</guid>
+      <guid>//workstation.local:1313/tags/clojure/</guid>
       <description></description>
     </item>
     <item>
       <title>Jmeter</title>
-      <link>https://sadique.io/tags/jmeter/</link>
+      <link>//workstation.local:1313/tags/jmeter/</link>
       <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/jmeter/</guid>
+      <guid>//workstation.local:1313/tags/jmeter/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance-Test</title>
-      <link>https://sadique.io/tags/performance-test/</link>
+      <link>//workstation.local:1313/tags/performance-test/</link>
       <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/performance-test/</guid>
+      <guid>//workstation.local:1313/tags/performance-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Kerala</title>
-      <link>https://sadique.io/tags/kerala/</link>
+      <link>//workstation.local:1313/tags/kerala/</link>
       <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/kerala/</guid>
+      <guid>//workstation.local:1313/tags/kerala/</guid>
       <description></description>
     </item>
     <item>
       <title>Malabar</title>
-      <link>https://sadique.io/tags/malabar/</link>
+      <link>//workstation.local:1313/tags/malabar/</link>
       <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/malabar/</guid>
+      <guid>//workstation.local:1313/tags/malabar/</guid>
       <description></description>
     </item>
     <item>
       <title>Politics</title>
-      <link>https://sadique.io/tags/politics/</link>
+      <link>//workstation.local:1313/tags/politics/</link>
       <pubDate>Sun, 09 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/politics/</guid>
+      <guid>//workstation.local:1313/tags/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>Fiction</title>
-      <link>https://sadique.io/tags/fiction/</link>
+      <link>//workstation.local:1313/tags/fiction/</link>
       <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/fiction/</guid>
+      <guid>//workstation.local:1313/tags/fiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>https://sadique.io/tags/life/</link>
+      <link>//workstation.local:1313/tags/life/</link>
       <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/life/</guid>
+      <guid>//workstation.local:1313/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Rain</title>
-      <link>https://sadique.io/tags/rain/</link>
+      <link>//workstation.local:1313/tags/rain/</link>
       <pubDate>Thu, 21 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/rain/</guid>
+      <guid>//workstation.local:1313/tags/rain/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>https://sadique.io/tags/internet/</link>
+      <link>//workstation.local:1313/tags/internet/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/internet/</guid>
+      <guid>//workstation.local:1313/tags/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Rails</title>
-      <link>https://sadique.io/tags/rails/</link>
+      <link>//workstation.local:1313/tags/rails/</link>
       <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/rails/</guid>
+      <guid>//workstation.local:1313/tags/rails/</guid>
       <description></description>
     </item>
     <item>
       <title>Rate-Limiting</title>
-      <link>https://sadique.io/tags/rate-limiting/</link>
+      <link>//workstation.local:1313/tags/rate-limiting/</link>
       <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/rate-limiting/</guid>
+      <guid>//workstation.local:1313/tags/rate-limiting/</guid>
       <description></description>
     </item>
     <item>
       <title>Canvas</title>
-      <link>https://sadique.io/tags/canvas/</link>
+      <link>//workstation.local:1313/tags/canvas/</link>
       <pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/canvas/</guid>
+      <guid>//workstation.local:1313/tags/canvas/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>https://sadique.io/tags/android/</link>
+      <link>//workstation.local:1313/tags/android/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/android/</guid>
+      <guid>//workstation.local:1313/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Gradle</title>
-      <link>https://sadique.io/tags/gradle/</link>
+      <link>//workstation.local:1313/tags/gradle/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/gradle/</guid>
+      <guid>//workstation.local:1313/tags/gradle/</guid>
       <description></description>
     </item>
     <item>
       <title>Groovy</title>
-      <link>https://sadique.io/tags/groovy/</link>
+      <link>//workstation.local:1313/tags/groovy/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/groovy/</guid>
+      <guid>//workstation.local:1313/tags/groovy/</guid>
       <description></description>
     </item>
     <item>
       <title>Regexp</title>
-      <link>https://sadique.io/tags/regexp/</link>
+      <link>//workstation.local:1313/tags/regexp/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/regexp/</guid>
+      <guid>//workstation.local:1313/tags/regexp/</guid>
       <description></description>
     </item>
     <item>
       <title>Burger</title>
-      <link>https://sadique.io/tags/burger/</link>
+      <link>//workstation.local:1313/tags/burger/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/burger/</guid>
+      <guid>//workstation.local:1313/tags/burger/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>https://sadique.io/tags/food/</link>
+      <link>//workstation.local:1313/tags/food/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/food/</guid>
+      <guid>//workstation.local:1313/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Halal</title>
-      <link>https://sadique.io/tags/halal/</link>
+      <link>//workstation.local:1313/tags/halal/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/halal/</guid>
+      <guid>//workstation.local:1313/tags/halal/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
-      <link>https://sadique.io/tags/bash/</link>
+      <link>//workstation.local:1313/tags/bash/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/bash/</guid>
+      <guid>//workstation.local:1313/tags/bash/</guid>
       <description></description>
     </item>
     <item>
       <title>Bundler</title>
-      <link>https://sadique.io/tags/bundler/</link>
+      <link>//workstation.local:1313/tags/bundler/</link>
       <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/bundler/</guid>
+      <guid>//workstation.local:1313/tags/bundler/</guid>
       <description></description>
     </item>
     <item>
       <title>Rbenv</title>
-      <link>https://sadique.io/tags/rbenv/</link>
+      <link>//workstation.local:1313/tags/rbenv/</link>
       <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/rbenv/</guid>
+      <guid>//workstation.local:1313/tags/rbenv/</guid>
       <description></description>
     </item>
     <item>
       <title>Emacs</title>
-      <link>https://sadique.io/tags/emacs/</link>
+      <link>//workstation.local:1313/tags/emacs/</link>
       <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/emacs/</guid>
+      <guid>//workstation.local:1313/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://sadique.io/tags/technology/</link>
+      <link>//workstation.local:1313/tags/technology/</link>
       <pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/technology/</guid>
+      <guid>//workstation.local:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Type</title>
-      <link>https://sadique.io/tags/type/</link>
+      <link>//workstation.local:1313/tags/type/</link>
       <pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/type/</guid>
+      <guid>//workstation.local:1313/tags/type/</guid>
       <description></description>
     </item>
     <item>
       <title>Browsers</title>
-      <link>https://sadique.io/tags/browsers/</link>
+      <link>//workstation.local:1313/tags/browsers/</link>
       <pubDate>Sat, 17 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/browsers/</guid>
+      <guid>//workstation.local:1313/tags/browsers/</guid>
       <description></description>
     </item>
     <item>
       <title>Accessibility</title>
-      <link>https://sadique.io/tags/accessibility/</link>
+      <link>//workstation.local:1313/tags/accessibility/</link>
       <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/accessibility/</guid>
+      <guid>//workstation.local:1313/tags/accessibility/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://sadique.io/tags/html/</link>
+      <link>//workstation.local:1313/tags/html/</link>
       <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/html/</guid>
+      <guid>//workstation.local:1313/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Twitter</title>
-      <link>https://sadique.io/tags/twitter/</link>
+      <link>//workstation.local:1313/tags/twitter/</link>
       <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/twitter/</guid>
+      <guid>//workstation.local:1313/tags/twitter/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>https://sadique.io/tags/web/</link>
+      <link>//workstation.local:1313/tags/web/</link>
       <pubDate>Sun, 11 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/web/</guid>
+      <guid>//workstation.local:1313/tags/web/</guid>
       <description></description>
     </item>
     <item>
       <title>Media</title>
-      <link>https://sadique.io/tags/media/</link>
+      <link>//workstation.local:1313/tags/media/</link>
       <pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/media/</guid>
+      <guid>//workstation.local:1313/tags/media/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://sadique.io/tags/news/</link>
+      <link>//workstation.local:1313/tags/news/</link>
       <pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/news/</guid>
+      <guid>//workstation.local:1313/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Biriyani</title>
-      <link>https://sadique.io/tags/biriyani/</link>
+      <link>//workstation.local:1313/tags/biriyani/</link>
       <pubDate>Fri, 09 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/biriyani/</guid>
+      <guid>//workstation.local:1313/tags/biriyani/</guid>
       <description></description>
     </item>
     <item>
       <title>Cypher</title>
-      <link>https://sadique.io/tags/cypher/</link>
+      <link>//workstation.local:1313/tags/cypher/</link>
       <pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/cypher/</guid>
+      <guid>//workstation.local:1313/tags/cypher/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphdb</title>
-      <link>https://sadique.io/tags/graphdb/</link>
+      <link>//workstation.local:1313/tags/graphdb/</link>
       <pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/graphdb/</guid>
+      <guid>//workstation.local:1313/tags/graphdb/</guid>
       <description></description>
     </item>
     <item>
       <title>Neo4j</title>
-      <link>https://sadique.io/tags/neo4j/</link>
+      <link>//workstation.local:1313/tags/neo4j/</link>
       <pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/neo4j/</guid>
+      <guid>//workstation.local:1313/tags/neo4j/</guid>
       <description></description>
     </item>
     <item>
       <title>Elisp</title>
-      <link>https://sadique.io/tags/elisp/</link>
+      <link>//workstation.local:1313/tags/elisp/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/elisp/</guid>
+      <guid>//workstation.local:1313/tags/elisp/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://sadique.io/tags/git/</link>
+      <link>//workstation.local:1313/tags/git/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/git/</guid>
+      <guid>//workstation.local:1313/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Learn</title>
-      <link>https://sadique.io/tags/learn/</link>
+      <link>//workstation.local:1313/tags/learn/</link>
       <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/learn/</guid>
+      <guid>//workstation.local:1313/tags/learn/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflections</title>
-      <link>https://sadique.io/tags/reflections/</link>
+      <link>//workstation.local:1313/tags/reflections/</link>
       <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/reflections/</guid>
+      <guid>//workstation.local:1313/tags/reflections/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>https://sadique.io/tags/work/</link>
+      <link>//workstation.local:1313/tags/work/</link>
       <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/work/</guid>
+      <guid>//workstation.local:1313/tags/work/</guid>
       <description></description>
     </item>
     <item>
       <title>Software</title>
-      <link>https://sadique.io/tags/software/</link>
+      <link>//workstation.local:1313/tags/software/</link>
       <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/software/</guid>
+      <guid>//workstation.local:1313/tags/software/</guid>
       <description></description>
     </item>
     <item>
       <title>Browser</title>
-      <link>https://sadique.io/tags/browser/</link>
+      <link>//workstation.local:1313/tags/browser/</link>
       <pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/browser/</guid>
+      <guid>//workstation.local:1313/tags/browser/</guid>
       <description></description>
     </item>
     <item>
       <title>Flash</title>
-      <link>https://sadique.io/tags/flash/</link>
+      <link>//workstation.local:1313/tags/flash/</link>
       <pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/flash/</guid>
+      <guid>//workstation.local:1313/tags/flash/</guid>
       <description></description>
     </item>
     <item>
       <title>Mac-Osx</title>
-      <link>https://sadique.io/tags/mac-osx/</link>
+      <link>//workstation.local:1313/tags/mac-osx/</link>
       <pubDate>Tue, 22 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/mac-osx/</guid>
+      <guid>//workstation.local:1313/tags/mac-osx/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>https://sadique.io/tags/books/</link>
+      <link>//workstation.local:1313/tags/books/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/books/</guid>
+      <guid>//workstation.local:1313/tags/books/</guid>
       <description></description>
     </item>
     <item>
       <title>Chrome</title>
-      <link>https://sadique.io/tags/chrome/</link>
+      <link>//workstation.local:1313/tags/chrome/</link>
       <pubDate>Thu, 29 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/chrome/</guid>
+      <guid>//workstation.local:1313/tags/chrome/</guid>
       <description></description>
     </item>
     <item>
       <title>Plugin</title>
-      <link>https://sadique.io/tags/plugin/</link>
+      <link>//workstation.local:1313/tags/plugin/</link>
       <pubDate>Thu, 29 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/plugin/</guid>
+      <guid>//workstation.local:1313/tags/plugin/</guid>
       <description></description>
     </item>
     <item>
       <title>Caching</title>
-      <link>https://sadique.io/tags/caching/</link>
+      <link>//workstation.local:1313/tags/caching/</link>
       <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/caching/</guid>
+      <guid>//workstation.local:1313/tags/caching/</guid>
       <description></description>
     </item>
     <item>
       <title>Content-Type</title>
-      <link>https://sadique.io/tags/content-type/</link>
+      <link>//workstation.local:1313/tags/content-type/</link>
       <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/content-type/</guid>
+      <guid>//workstation.local:1313/tags/content-type/</guid>
       <description></description>
     </item>
     <item>
       <title>Http</title>
-      <link>https://sadique.io/tags/http/</link>
+      <link>//workstation.local:1313/tags/http/</link>
       <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/http/</guid>
+      <guid>//workstation.local:1313/tags/http/</guid>
       <description></description>
     </item>
     <item>
       <title>Rest</title>
-      <link>https://sadique.io/tags/rest/</link>
+      <link>//workstation.local:1313/tags/rest/</link>
       <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/rest/</guid>
+      <guid>//workstation.local:1313/tags/rest/</guid>
       <description></description>
     </item>
     <item>
       <title>Social-Network</title>
-      <link>https://sadique.io/tags/social-network/</link>
+      <link>//workstation.local:1313/tags/social-network/</link>
       <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/social-network/</guid>
+      <guid>//workstation.local:1313/tags/social-network/</guid>
       <description></description>
     </item>
     <item>
       <title>D3.js</title>
-      <link>https://sadique.io/tags/d3.js/</link>
+      <link>//workstation.local:1313/tags/d3.js/</link>
       <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/d3.js/</guid>
+      <guid>//workstation.local:1313/tags/d3.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualisation</title>
-      <link>https://sadique.io/tags/visualisation/</link>
+      <link>//workstation.local:1313/tags/visualisation/</link>
       <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/visualisation/</guid>
+      <guid>//workstation.local:1313/tags/visualisation/</guid>
       <description></description>
     </item>
     <item>
       <title>Facebook</title>
-      <link>https://sadique.io/tags/facebook/</link>
+      <link>//workstation.local:1313/tags/facebook/</link>
       <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/facebook/</guid>
+      <guid>//workstation.local:1313/tags/facebook/</guid>
       <description></description>
     </item>
     <item>
       <title>Talk</title>
-      <link>https://sadique.io/tags/talk/</link>
+      <link>//workstation.local:1313/tags/talk/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/talk/</guid>
+      <guid>//workstation.local:1313/tags/talk/</guid>
       <description></description>
     </item>
     <item>
       <title>Google&#43;</title>
-      <link>https://sadique.io/tags/google&#43;/</link>
+      <link>//workstation.local:1313/tags/google&#43;/</link>
       <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/google&#43;/</guid>
+      <guid>//workstation.local:1313/tags/google&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>Deck.js</title>
-      <link>https://sadique.io/tags/deck.js/</link>
+      <link>//workstation.local:1313/tags/deck.js/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/deck.js/</guid>
+      <guid>//workstation.local:1313/tags/deck.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Heredoc</title>
-      <link>https://sadique.io/tags/heredoc/</link>
+      <link>//workstation.local:1313/tags/heredoc/</link>
       <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/heredoc/</guid>
+      <guid>//workstation.local:1313/tags/heredoc/</guid>
       <description></description>
     </item>
     <item>
       <title>Automation</title>
-      <link>https://sadique.io/tags/automation/</link>
+      <link>//workstation.local:1313/tags/automation/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/automation/</guid>
+      <guid>//workstation.local:1313/tags/automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Cucumber</title>
-      <link>https://sadique.io/tags/cucumber/</link>
+      <link>//workstation.local:1313/tags/cucumber/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/cucumber/</guid>
+      <guid>//workstation.local:1313/tags/cucumber/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://sadique.io/tags/test/</link>
+      <link>//workstation.local:1313/tags/test/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/test/</guid>
+      <guid>//workstation.local:1313/tags/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Twist</title>
-      <link>https://sadique.io/tags/twist/</link>
+      <link>//workstation.local:1313/tags/twist/</link>
       <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/twist/</guid>
+      <guid>//workstation.local:1313/tags/twist/</guid>
       <description></description>
     </item>
     <item>
       <title>Rake</title>
-      <link>https://sadique.io/tags/rake/</link>
+      <link>//workstation.local:1313/tags/rake/</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/rake/</guid>
+      <guid>//workstation.local:1313/tags/rake/</guid>
       <description></description>
     </item>
     <item>
       <title>Certificates</title>
-      <link>https://sadique.io/tags/certificates/</link>
+      <link>//workstation.local:1313/tags/certificates/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/certificates/</guid>
+      <guid>//workstation.local:1313/tags/certificates/</guid>
       <description></description>
     </item>
     <item>
       <title>Console</title>
-      <link>https://sadique.io/tags/console/</link>
+      <link>//workstation.local:1313/tags/console/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/console/</guid>
+      <guid>//workstation.local:1313/tags/console/</guid>
       <description></description>
     </item>
     <item>
       <title>Firefox</title>
-      <link>https://sadique.io/tags/firefox/</link>
+      <link>//workstation.local:1313/tags/firefox/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/firefox/</guid>
+      <guid>//workstation.local:1313/tags/firefox/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssl</title>
-      <link>https://sadique.io/tags/ssl/</link>
+      <link>//workstation.local:1313/tags/ssl/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/ssl/</guid>
+      <guid>//workstation.local:1313/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://sadique.io/tags/windows/</link>
+      <link>//workstation.local:1313/tags/windows/</link>
       <pubDate>Tue, 05 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/windows/</guid>
+      <guid>//workstation.local:1313/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Cricket</title>
-      <link>https://sadique.io/tags/cricket/</link>
+      <link>//workstation.local:1313/tags/cricket/</link>
       <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/cricket/</guid>
+      <guid>//workstation.local:1313/tags/cricket/</guid>
       <description></description>
     </item>
     <item>
       <title>India</title>
-      <link>https://sadique.io/tags/india/</link>
+      <link>//workstation.local:1313/tags/india/</link>
       <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/india/</guid>
+      <guid>//workstation.local:1313/tags/india/</guid>
       <description></description>
     </item>
     <item>
       <title>Pakistan</title>
-      <link>https://sadique.io/tags/pakistan/</link>
+      <link>//workstation.local:1313/tags/pakistan/</link>
       <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/pakistan/</guid>
+      <guid>//workstation.local:1313/tags/pakistan/</guid>
       <description></description>
     </item>
     <item>
       <title>Homebrew</title>
-      <link>https://sadique.io/tags/homebrew/</link>
+      <link>//workstation.local:1313/tags/homebrew/</link>
       <pubDate>Fri, 04 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/homebrew/</guid>
+      <guid>//workstation.local:1313/tags/homebrew/</guid>
       <description></description>
     </item>
     <item>
       <title>Scm</title>
-      <link>https://sadique.io/tags/scm/</link>
+      <link>//workstation.local:1313/tags/scm/</link>
       <pubDate>Sun, 29 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/scm/</guid>
+      <guid>//workstation.local:1313/tags/scm/</guid>
       <description></description>
     </item>
     <item>
       <title>Story-Branching</title>
-      <link>https://sadique.io/tags/story-branching/</link>
+      <link>//workstation.local:1313/tags/story-branching/</link>
       <pubDate>Sun, 29 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/story-branching/</guid>
+      <guid>//workstation.local:1313/tags/story-branching/</guid>
       <description></description>
     </item>
     <item>
       <title>Best-Practices</title>
-      <link>https://sadique.io/tags/best-practices/</link>
+      <link>//workstation.local:1313/tags/best-practices/</link>
       <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/best-practices/</guid>
+      <guid>//workstation.local:1313/tags/best-practices/</guid>
       <description></description>
     </item>
     <item>
       <title>Ci</title>
-      <link>https://sadique.io/tags/ci/</link>
+      <link>//workstation.local:1313/tags/ci/</link>
       <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/ci/</guid>
+      <guid>//workstation.local:1313/tags/ci/</guid>
       <description></description>
     </item>
     <item>
       <title>Continuous-Delivery</title>
-      <link>https://sadique.io/tags/continuous-delivery/</link>
+      <link>//workstation.local:1313/tags/continuous-delivery/</link>
       <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/continuous-delivery/</guid>
+      <guid>//workstation.local:1313/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Jenkins</title>
-      <link>https://sadique.io/tags/jenkins/</link>
+      <link>//workstation.local:1313/tags/jenkins/</link>
       <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/jenkins/</guid>
+      <guid>//workstation.local:1313/tags/jenkins/</guid>
       <description></description>
     </item>
     <item>
       <title>C#</title>
-      <link>https://sadique.io/tags/c%23/</link>
+      <link>//workstation.local:1313/tags/c%23/</link>
       <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/c%23/</guid>
+      <guid>//workstation.local:1313/tags/c%23/</guid>
       <description></description>
     </item>
     <item>
       <title>Debug</title>
-      <link>https://sadique.io/tags/debug/</link>
+      <link>//workstation.local:1313/tags/debug/</link>
       <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/debug/</guid>
+      <guid>//workstation.local:1313/tags/debug/</guid>
       <description></description>
     </item>
     <item>
       <title>Wikipedia</title>
-      <link>https://sadique.io/tags/wikipedia/</link>
+      <link>//workstation.local:1313/tags/wikipedia/</link>
       <pubDate>Tue, 17 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/wikipedia/</guid>
+      <guid>//workstation.local:1313/tags/wikipedia/</guid>
       <description></description>
     </item>
     <item>
       <title>Drawing</title>
-      <link>https://sadique.io/tags/drawing/</link>
+      <link>//workstation.local:1313/tags/drawing/</link>
       <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/drawing/</guid>
+      <guid>//workstation.local:1313/tags/drawing/</guid>
       <description></description>
     </item>
     <item>
       <title>Gtk</title>
-      <link>https://sadique.io/tags/gtk/</link>
+      <link>//workstation.local:1313/tags/gtk/</link>
       <pubDate>Sun, 30 May 2010 09:07:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/gtk/</guid>
+      <guid>//workstation.local:1313/tags/gtk/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
-      <link>https://sadique.io/tags/ubuntu/</link>
+      <link>//workstation.local:1313/tags/ubuntu/</link>
       <pubDate>Sun, 30 May 2010 09:07:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/ubuntu/</guid>
+      <guid>//workstation.local:1313/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>Jruby</title>
-      <link>https://sadique.io/tags/jruby/</link>
+      <link>//workstation.local:1313/tags/jruby/</link>
       <pubDate>Tue, 16 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/jruby/</guid>
+      <guid>//workstation.local:1313/tags/jruby/</guid>
       <description></description>
     </item>
     <item>
       <title>Athletic</title>
-      <link>https://sadique.io/tags/athletic/</link>
+      <link>//workstation.local:1313/tags/athletic/</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/athletic/</guid>
+      <guid>//workstation.local:1313/tags/athletic/</guid>
       <description></description>
     </item>
     <item>
       <title>Bilbao</title>
-      <link>https://sadique.io/tags/bilbao/</link>
+      <link>//workstation.local:1313/tags/bilbao/</link>
       <pubDate>Sat, 06 Feb 2010 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/bilbao/</guid>
+      <guid>//workstation.local:1313/tags/bilbao/</guid>
       <description></description>
     </item>
     <item>
       <title>Thoughtworks</title>
-      <link>https://sadique.io/tags/thoughtworks/</link>
+      <link>//workstation.local:1313/tags/thoughtworks/</link>
       <pubDate>Tue, 22 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/thoughtworks/</guid>
+      <guid>//workstation.local:1313/tags/thoughtworks/</guid>
       <description></description>
     </item>
     <item>
       <title>Agasthyamala</title>
-      <link>https://sadique.io/tags/agasthyamala/</link>
+      <link>//workstation.local:1313/tags/agasthyamala/</link>
       <pubDate>Sat, 24 May 2008 03:01:00 +0000</pubDate>
-      <guid>https://sadique.io/tags/agasthyamala/</guid>
+      <guid>//workstation.local:1313/tags/agasthyamala/</guid>
       <description></description>
     </item>
   </channel>
