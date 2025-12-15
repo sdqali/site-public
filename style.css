@@ -224,10 +224,6 @@ table {
 }
 /* end of icomoon */
 
-.footnotes a {
-    text-decoration: underline;
-}
-
 img {
     max-width: 100%;
     display: flex;
@@ -669,32 +665,5 @@ details[open] summary {
         margin: 0;
 
         table pre { margin: 0; }
-    }
-
-    /* Bonus effect to display the name of the language. ↓ */
-    &:has(code[data-lang]) {
-        position: relative;
-        margin-top: calc(2ch - var(--parent-padding-size)/2);
-        /*          ↑
-            Calculates headroom needed for language label.
-            So long as both elements use the same font size, we can estimate
-            the height of the language label using `ch` or `em`.
-        */
-
-        code[data-lang]::before {
-            position: absolute;
-            font-family: monospace;
-            content: attr(data-lang);
-            display: inline-block;
-            text-align: right;
-            font-size: 1em;
-            height: 1em;
-            top: calc(-1em + 1px);  /* 1em alone is sometimes off by a hair. */
-            padding: 0 0.25rem;
-            right: var(--parent-padding-size);
-
-            /* If you add a border to your the code blocks, remember to */
-            /* set a background color here to interrupt the border. */
-        }
     }
 }
